@@ -3,3 +3,7 @@ body {
     margin: 0;
     background-color: #1b1b1b;
   }
+
+main {
+   padding: 5% 40% 5% 25%;
+}
